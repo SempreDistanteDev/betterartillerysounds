@@ -1,0 +1,9 @@
+{
+    "name": "betterartillerysounds-updated",
+    "version": "0.0.3",
+    "title": "Artillery sound enhancer Factorio 2.0",
+    "author": "yohannc, briel1235",
+    "factorio_version": "2.0",
+    "dependencies": [],
+    "description": "Add multiple sounds for artillery depending on distance (based on vanilla). Clone and updated to Factorio 2.0... give credit to yohannc original modder"
+  }

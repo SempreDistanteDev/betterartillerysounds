@@ -1,0 +1,10 @@
+Version: 0.0.3
+Date: 2025-10-04
+  Changes:
+    - Removed garbage code that i left by mistake (If you dont have Youki Industries that made the mod crash)
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2025-10-03
+  Changes:
+    - Fix shooting sounds being played everywhere on the UNIVERSE (Changed logic to verify Player Surface Lua Property)
+---------------------------------------------------------------------------------------------------
