@@ -103,12 +103,3 @@ for ammo_name, ammo_value in pairs(data.raw["ammo"]) do
         end
     end
 end
-
-local ammo_name = "artillery-shell"
-local ammo_prototype = data.raw["ammo"][ammo_name]
-if ammo_prototype then
-    log("Debug: Ammo prototype logged to log file!")
-    log(serpent.block(ammo_prototype))
-else
-    log("Ammo prototype '" .. ammo_name .. "' not found!")
-end
